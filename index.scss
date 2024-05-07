@@ -1,0 +1,20 @@
+$primary: rgb(75, 75, 75);
+$secundary:black;
+$terceiro: white;
+
+header{
+    display: flex;
+    background-color: $primary;
+    color: white;
+    box-shadow:100PX;
+}
+.center{
+    text-align: center;
+}
+.capas{
+    text-align: center;
+    background-color: $secundary;
+}
+html{
+    font-family: Arial, Helvetica, sans-serif;
+}
