@@ -1,8 +1,14 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
 header {
   display: flex;
   background-color: rgb(75, 75, 75);
   color: white;
   box-shadow: 100PX;
+  box-sizing: 300px;
 }
 
 .center {
@@ -11,7 +17,8 @@ header {
 
 .capas {
   text-align: center;
-  background-color: black;
+  background-color: rgb(2, 32, 21);
+  color: white;
 }
 
 html {

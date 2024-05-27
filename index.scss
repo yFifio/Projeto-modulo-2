@@ -1,12 +1,17 @@
 $primary: rgb(75, 75, 75);
-$secundary:black;
+$secundary:rgb(2, 32, 21);
 $terceiro: white;
+*{
+    margin: 0;
+    padding: 0;
+}
 
 header{
     display: flex;
     background-color: $primary;
     color: white;
     box-shadow:100PX;
+    box-sizing: 300px;
 }
 .center{
     text-align: center;
@@ -14,6 +19,7 @@ header{
 .capas{
     text-align: center;
     background-color: $secundary;
+    color: $terceiro;
 }
 html{
     font-family: Arial, Helvetica, sans-serif;
