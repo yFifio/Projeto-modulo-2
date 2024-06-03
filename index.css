@@ -33,7 +33,7 @@ h2 {
   background-color: rgb(51, 187, 197);
   color: rgb(133, 230, 197);
   display: flex;
-  justify-content: center;
+  justify-content: space-around;
 }
 
 html {
@@ -59,4 +59,14 @@ footer {
   justify-content: flex-end;
   margin-top: 557px;
   padding: 20px;
+}
+
+@media (max-width: 768px) {
+  .capas {
+    flex-direction: column;
+    align-items: center;
+  }
+  .jogos {
+    width: 200px;
+  }
 }/*# sourceMappingURL=index.css.map */
