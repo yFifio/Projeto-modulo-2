@@ -1,6 +1,9 @@
-$primary: rgb(75, 75, 75);
-$secundary:rgb(2, 32, 21);
-$terceiro: white;
+$primary: rgb(97, 75, 195);
+$secundary: rgb(51, 187, 197);
+$terceiro: rgb(133, 230, 197);
+$quarta: #000;
+$quinta: #4b4b4b;
+$sexto: #3f767e;
 *{
     margin: 0;
     padding: 0;
@@ -9,17 +12,30 @@ $terceiro: white;
 header{
     display: flex;
     background-color: $primary;
-    color: white;
+    color: $terceiro;
     box-shadow:100PX;
     box-sizing: 300px;
+    padding: 15px;
+}
+.tituloSite{
+    margin-right: 50px;
+}
+h2{
+    margin-block: 7px;
+    margin-inline: 10px;
 }
 .center{
+    padding-top: 20px;
     text-align: center;
+    background-color: $secundary;
+    color: $primary;
 }
 .capas{
     text-align: center;
     background-color: $secundary;
     color: $terceiro;
+    display: flex;
+    justify-content: center;
 }
 html{
     font-family: Arial, Helvetica, sans-serif;
@@ -29,4 +45,22 @@ html{
 }
 @media (min-width: 390px){
     
+}
+.jogos{
+    margin: 20px;
+    background-color: #85E6C5;
+    box-shadow: 0 0 10px $quinta;
+    color: $quarta;
+}
+a{
+    text-decoration: none;
+    color: $terceiro;
+}
+footer{
+    background-color: $primary;
+    text-align: center;
+    color: $secundary;
+    justify-content: flex-end;
+    margin-top: 557px;
+    padding: 20px;
 }
