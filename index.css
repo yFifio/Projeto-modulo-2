@@ -15,6 +15,7 @@ body {
 
 header {
   display: flex;
+  flex-direction: column;
   background-color: rgb(97, 75, 195);
   color: rgb(133, 230, 197);
   box-shadow: 100PX;

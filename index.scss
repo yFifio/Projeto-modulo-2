@@ -19,6 +19,7 @@ body {
 
 header{
     display: flex;
+    flex-direction: column;
     background-color: $primary;
     color: $terceiro;
     box-shadow:100PX;
