@@ -42,6 +42,7 @@ header{
 }
 .capas{
     text-align: center;
+    text-decoration: none;
    
     color: $terceiro;
     display: flex;
@@ -57,11 +58,12 @@ html{
     background-color: #85E6C5;
     box-shadow: 0 0 10px $quinta;
     color: $quarta;
-    text-decoration: none;
-}
+    //text-decoration:solid;
+
 a{
     text-decoration: none;
-    color: $terceiro;
+    color: $primary;
+}
 }
 footer{
     background-color: $primary;
@@ -75,6 +77,7 @@ footer{
     .capas{
         flex-direction: column;
         align-items: center;
+        
         
     }
     .jogos{
