@@ -40,12 +40,6 @@
         </div>
       </nav>
       <main>
-   <!-- <header>
-          <h1 class="tituloSite">Clack (3x)</h1>
-        <a href="index.html"> <h2>Home</h2> </a>
-        <a href="equipe.html"> <h2>Equipe</h2></a>
-        <a href="contato.html"><h2>Contato</h2></a>
-    </header>-->
     <h1 class="center">
             Desenvolvedores
         </h1>
