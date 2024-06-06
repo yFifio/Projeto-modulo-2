@@ -11,7 +11,7 @@
     <meta name="descriptiom" content="Sua pagina de games pagos e gratuitos">
 </head>
 <body>
-    <nav class="navbar navbar-expand-lg" style="background-color:rgb(97, 75, 195); height: 100px; font-family: Arial, Helvetica, sans-serif; font-weight: bold;">
+<nav class="navbar navbar-expand-lg" style="background-color:rgb(97, 75, 195); height: 100px; font-family: Arial, Helvetica, sans-serif; font-weight: bold;">
         <div class="container-fluid" style="background-color:rgb(97, 75, 195);">
           <a class="navbar-brand" style="font-size: 24px; color: #85E6C5;" href="index.php">Clack (3x)</a>
           <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
@@ -30,7 +30,7 @@
                   Contatos
                 </a>
                 <ul class="dropdown-menu"  style="font-size: 24px; color: #85E6C5;background-color:rgb(97, 75, 195);">
-                  <li><a class="dropdown-item" style="font-size: 24px; color: #85E6C5" href="#">Email</a></li>
+                  <li><a class="dropdown-item" style="font-size: 24px; color: #85E6C5" href="https://www.linkedin.com/in/lucas-de-fiori-b1a488312/">LinkedIn</a></li>
                   <li><a class="dropdown-item" style="font-size: 24px; color: #85E6C5" href="https://github.com/yFifio">GitHub</a></li>
                   <li><hr class="dropdown-divider"></li>
                   <li><a class="dropdown-item" style="font-size: 24px; color: #85E6C5;" href="https://api.whatsapp.com/send?phone=5544999043230&text=Ol%C3%A1,%20tudo%20bem?">

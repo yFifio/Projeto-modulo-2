@@ -10,7 +10,7 @@
     <link rel="script" href="index.js">
 </head>
 <body>
-  <div class="botoes">
+<div class="botoes">
     <nav class="navbar navbar-expand-lg" style="background-color:rgb(97, 75, 195); height: 100px; font-family: Arial, Helvetica, sans-serif; font-weight: bold;">
         <div class="container-fluid" style="background-color:rgb(97, 75, 195);">
           <a class="navbar-brand" style="font-size: 24px; color: #85E6C5;" href="index.php">Clack (3x)</a>
@@ -30,7 +30,7 @@
                   Contatos
                 </a>
                 <ul class="dropdown-menu"  style="font-size: 24px; color: #85E6C5;background-color:rgb(97, 75, 195);">
-                  <li><a class="dropdown-item" style="font-size: 24px; color: #85E6C5" href="https://www.linkedin.com/in/lucas-de-fiori-b1a488312/"></a></li>
+                  <li><a class="dropdown-item" style="font-size: 24px; color: #85E6C5" href="https://www.linkedin.com/in/lucas-de-fiori-b1a488312/">LinkedIn</a></li>
                   <li><a class="dropdown-item" style="font-size: 24px; color: #85E6C5" href="https://github.com/yFifio">GitHub</a></li>
                   <li><hr class="dropdown-divider"></li>
                   <li><a class="dropdown-item" style="font-size: 24px; color: #85E6C5;" href="https://api.whatsapp.com/send?phone=5544999043230&text=Ol%C3%A1,%20tudo%20bem?">
@@ -42,6 +42,7 @@
         </div>
       </nav>
   </div>
+
       <main>
     <div class="center">
         <h1>Jogos</h1>
