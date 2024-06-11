@@ -3,13 +3,11 @@
   padding: 0; }
 
 main {
-  background-color: #33bbc5; }
+  background-color: #33bbc5;
+  padding-bottom: 30px; }
 
 body {
-  height: 100%;
-  height: 100vh;
-  background-color: #33bbc5;
-  padding-bottom: 20px; }
+  background-color: #33bbc5; }
 
 header {
   display: flex;
@@ -21,6 +19,15 @@ header {
   padding: 15px;
   align-items: center;
   gap: 30px; }
+
+.conteiner-global {
+  width: 80%;
+  margin: auto; }
+  .conteiner-global .conteiner {
+    display: flex;
+    justify-content: center; }
+    .conteiner-global .conteiner .card-flex .col .card {
+      width: 100px !important; }
 
 .tituloSite {
   margin-right: 50px; }
