@@ -22,7 +22,12 @@ header {
 
 .conteiner-global {
   width: 80%;
-  margin: auto; }
+  margin: 50px  auto; }
+  .conteiner-global .jogo-center {
+    display: flex;
+    justify-content: center; }
+    .conteiner-global .jogo-center iframe {
+      margin: auto; }
   .conteiner-global .conteiner {
     display: flex;
     justify-content: center; }

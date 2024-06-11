@@ -33,7 +33,15 @@ header{
 .conteiner-global {
 
   width: 80%;
-    margin: auto;
+    margin: 50px  auto;
+    & .jogo-center {
+        display: flex;
+        justify-content: center;
+        & iframe {
+            margin: auto;
+
+        }
+    }
     
     & .conteiner {
         display: flex;
@@ -64,6 +72,7 @@ header{
     color: $primary;
 
 }
+
 .capas{
     text-align: center;
     text-decoration: none;

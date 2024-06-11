@@ -10,7 +10,8 @@
         "banner01" => "http://localhost/Projeto-modulo-2/img/space cap way/space tumb.png",
         
         "screenShot01" => "http://localhost/Projeto-modulo-2/img/gameplay.jpg",
-
+        
+        "jogar"=>"http://localhost/Projeto-modulo-2/jogos/Space Cap Way/Space Cap Way/index.html",
     );
     $game[2] = array(
         "id" => 2,
@@ -24,6 +25,8 @@
         
         "screenShot01" => "http://localhost/Projeto-modulo-2/img/goblins-gameplay.jpg",
 
+        "jogar"=>"http://localhost/Projeto-modulo-2/jogos/GoblinReaper/index.html",
+
     );
     $game[3] = array(
         "id" => 3,
@@ -36,28 +39,10 @@
         
         "screenShot01" => "http://localhost/Projeto-modulo-2/img/gameplay.jpg",
 
+        "jogar"=>"http://localhost/Projeto-modulo-2/jogos/monsterhunter/index.html",
     );
 
-   
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
     echo json_encode($game);
-
-
 
 ?>
 

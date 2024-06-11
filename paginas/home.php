@@ -21,11 +21,10 @@
       <div class="card-body">
         <h5 class="card-title"><?php echo $dados-> title?></h5>
         <p class="card-text"><?php echo $dados-> description?></p>
-        <a href="spaceCapway.php" class="btn btn-primary">Jogar</a>
+        <a href="<?= $dados->jogar ?>" class="btn btn-primary">Jogar</a>
       </div>
+      </div> 
       </div>
-      </div>
-  
         <?php
     }
     ?>
