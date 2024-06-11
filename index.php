@@ -20,10 +20,10 @@
           <div class="collapse navbar-collapse" id="navbarSupportedContent">
             <ul class="navbar-nav me-auto mb-2 mb-lg-0">
               <li class="nav-item">
-                <a class="nav-link active"  style="font-size: 24px; color: #85E6C5" aria-current="page" href="games.php">GamePics</a>
+                <a class="nav-link active"  style="font-size: 24px; color: #85E6C5" aria-current="page" href="games">GamePics</a>
               </li>
               <li class="nav-item">
-                <a class="nav-link"  style="font-size: 24px; color: #85E6C5" href="equipe.php">Equipe</a>
+                <a class="nav-link"  style="font-size: 24px; color: #85E6C5" href="equipe">Equipe</a>
               </li>
               <li class="nav-item dropdown">
                 <a class="nav-link dropdown-toggle" href="#" role="button" data-bs-toggle="dropdown" aria-expanded="false"  style="font-size: 24px; color: #85E6C5">
