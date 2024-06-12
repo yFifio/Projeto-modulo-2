@@ -22,7 +22,7 @@ header {
 
 .conteiner-global {
   width: 80%;
-  margin: 50px  auto; }
+  margin: 0px  auto; }
   .conteiner-global .jogo-center {
     display: flex;
     justify-content: center; }
@@ -76,5 +76,7 @@ footer {
 
   .jogos {
     width: 200px; } }
+nav {
+  margin: 0; }
 
 /*# sourceMappingURL=index.css.map */
