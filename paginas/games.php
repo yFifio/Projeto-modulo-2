@@ -18,13 +18,13 @@
           <div id="carouselExampleAutoplaying" class="carousel slide" data-bs-ride="carousel">
             <div class="carousel-inner">
               <div class="carousel-item active">
-                <img src="http://localhost/Projeto-modulo-2/img/goblinsreaper/inicio.jpg" class="d-block w-100" alt="Goblin Reaper" height="100%">
+                <img src="img/goblinsreaper/inicio.jpg" class="d-block w-100" alt="Goblin Reaper" height="100%">
               </div>
               <div class="carousel-item">
-                <img src="http://localhost/Projeto-modulo-2/img/monster-hunter/inicio2.0.jpg" class="d-block w-100" alt="Monster Hunter">
+                <img src="img/monster-hunter/inicio2.0.jpg" class="d-block w-100" alt="Monster Hunter">
               </div>
               <div class="carousel-item">
-                <img src="http://localhost/Projeto-modulo-2/img/space cap way/space-bunner.png" class="d-block w-100" alt="Space Cap Way">
+                <img src="img/space cap way/space-bunner.png" class="d-block w-100" alt="Space Cap Way">
               </div>
             </div>
             <button class="carousel-control-prev" type="button" data-bs-target="#carouselExampleAutoplaying" data-bs-slide="prev">

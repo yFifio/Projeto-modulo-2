@@ -4,7 +4,8 @@
 
 main {
   background-color: #33bbc5;
-  padding-bottom: 30px; }
+  padding-bottom: 30px;
+  box-sizing: border-box; }
 
 body {
   background-color: #33bbc5; }
@@ -22,7 +23,8 @@ header {
 
 .conteiner-global {
   width: 80%;
-  margin: 0px  auto; }
+  margin: 0px  auto;
+  box-sizing: border-box; }
   .conteiner-global .jogo-center {
     display: flex;
     justify-content: center; }
@@ -32,7 +34,7 @@ header {
     display: flex;
     justify-content: center; }
     .conteiner-global .conteiner .card-flex .col .card {
-      width: 100px !important; }
+      width: 20% !important; }
 
 .tituloSite {
   margin-right: 50px; }
