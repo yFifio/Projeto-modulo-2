@@ -6,7 +6,7 @@ $quinta: #4b4b4b;
 $sexto: #3f767e;
 *{
     margin: 0;
-    padding: 0;
+    padding:0;
 }
 main {
     background-color:  rgb(51, 187, 197);
@@ -16,6 +16,7 @@ main {
 
 body {
     background-color:  rgb(51, 187, 197);
+box-sizing: border-box;
 
 }
 
@@ -33,7 +34,7 @@ header{
 
 .conteiner-global {
 
-  width: 80%;
+  width: 70%;
     margin: 0px  auto;
     box-sizing: border-box;
     & .jogo-center {
@@ -48,12 +49,17 @@ header{
     & .conteiner {
         display: flex;
         justify-content: center;
+
       
         & .card-flex {
+            width: 95% !important;
+            margin: auto;
             & .col {
+               width: 100%;
                 
                 & .card {
-                    width: 20% !important;
+                    width: 8% !important;
+                    box-sizing: border-box;
                    
                 }
             }
