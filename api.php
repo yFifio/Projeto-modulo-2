@@ -39,7 +39,7 @@
         
         "screenShot01" => "ttp://localhost/Projeto-modulo-2-main/img/gameplay.jpg",
 
-        "jogar"=>"ttp://localhost/Projeto-modulo-2-main/jogos/monsterhunter/index.html",
+        "jogar"=>"http://localhost/Projeto-modulo-2-main/jogos/monsterhunter/index.html",
     );
 
     echo json_encode($game);

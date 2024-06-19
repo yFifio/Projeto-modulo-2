@@ -1,6 +1,6 @@
 <?php 
     $id = $p[1] ?? NULL;
-    $dadosApi = file_get_contents("ttp://localhost/Projeto-modulo-2-main/api.php");
+    $dadosApi = file_get_contents("http://localhost/Projeto-modulo-2/api.php");
 
     $dadosApi = json_decode($dadosApi);
 
